@@ -44,10 +44,10 @@ def main():
     print("Go back to the main repo. Star it. Say thank you.")
     print("\nHave a nice day. :)")
     
-    # (แถม) เปิดลิงก์ YouTube อัตโนมัติให้ตกใจเล่น (ถ้าทำบนคอม)
+    # 
     import webbrowser
     try:
-        webbrowser.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ") # Rick Roll หรือใส่คลิปคุณ
+        webbrowser.open("https://www.youtube.com/watch?v=sNgcTVBRz5Y") # 
     except:
         pass
 
